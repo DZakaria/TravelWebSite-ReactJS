@@ -11,7 +11,7 @@ export default function Navbar() {
                 <div className="brand">
                     <div className="conatainer">
                         <img src={logo} alt="" />
-                    Travelo
+                    TraveloX-x
                 </div>
 
                     <div className="toggle"></div>
